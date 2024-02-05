@@ -1,0 +1,31 @@
+name: Build README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 15 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v3
+      with:
+          fetch-depth: 1
+
+    - name: Set up Go
+      uses: actions/setup-go@v4
+      with:
+        go-version: '1.20'
+
+    - name: Update README
+      run: |-
+        go run main.go
+
+    - name: Commit and push
+      run: |-
+        git config user.name "${GITHUB_ACTOR}"
+        git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+        git commit -am ":rocket: Updated fact of the day"
+        git push

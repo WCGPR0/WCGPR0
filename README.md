@@ -4,7 +4,7 @@
 
 𝑭𝙪𝙣 𝙛𝙖𝙘𝙩 𝙤𝙛 𝙩𝙝𝙚 𝒅𝙖𝙮; 𝑫𝙞𝒅 𝙮𝙤𝙪 𝙠𝒏𝙤𝙬:
 <h6>
-<!-- <RandomFunFact> --> Prince Charles is an avid collecter of toilet seats. <!-- </RandomFunFact> -->
+<!-- <RandomFunFact> --> Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.   <!-- </RandomFunFact> -->
 </h6>
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)

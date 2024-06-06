@@ -4,7 +4,7 @@
 
 𝑭𝙪𝙣 𝙛𝙖𝙘𝙩 𝙤𝙛 𝙩𝙝𝙚 𝒅𝙖𝙮; 𝑫𝙞𝒅 𝙮𝙤𝙪 𝙠𝒏𝙤𝙬:
 <h6>
-<!-- <RandomFunFact> --> To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly. <!-- </RandomFunFact> -->
+<!-- <RandomFunFact> --> In Bangladesh, kids as young as 15 can be jailed for cheating on their finals! <!-- </RandomFunFact> -->
 </h6>
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)

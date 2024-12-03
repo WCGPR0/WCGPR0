@@ -4,7 +4,7 @@
 
 𝑭𝙪𝙣 𝙛𝙖𝙘𝙩 𝙤𝙛 𝙩𝙝𝙚 𝒅𝙖𝙮; 𝑫𝙞𝒅 𝙮𝙤𝙪 𝙠𝒏𝙤𝙬:
 <h6>
-<!-- <RandomFunFact> --> Chewing gum while peeling onions will keep you from crying. <!-- </RandomFunFact> -->
+<!-- <RandomFunFact> --> The scene where Indiana Jones shoots the swordsman in Raider’s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break. <!-- </RandomFunFact> -->
 </h6>
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)

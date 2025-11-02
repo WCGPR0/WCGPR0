@@ -4,7 +4,7 @@
 
 𝑭𝙪𝙣 𝙛𝙖𝙘𝙩 𝙤𝙛 𝙩𝙝𝙚 𝒅𝙖𝙮; 𝑫𝙞𝒅 𝙮𝙤𝙪 𝙠𝒏𝙤𝙬:
 <h6>
-<!-- <RandomFunFact> --> The state of Maryland has no natural Lakes. <!-- </RandomFunFact> -->
+<!-- <RandomFunFact> --> The penguin is the only bird that can’t fly but can swim. <!-- </RandomFunFact> -->
 </h6>
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)

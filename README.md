@@ -4,7 +4,7 @@
 
 𝑭𝙪𝙣 𝙛𝙖𝙘𝙩 𝙤𝙛 𝙩𝙝𝙚 𝒅𝙖𝙮; 𝑫𝙞𝒅 𝙮𝙤𝙪 𝙠𝒏𝙤𝙬:
 <h6>
-<!-- <RandomFunFact> --> When a Hawaiian woman wears a flower over her left ear, it means that she is not available. <!-- </RandomFunFact> -->
+<!-- <RandomFunFact> --> To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles. <!-- </RandomFunFact> -->
 </h6>
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)

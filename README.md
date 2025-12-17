@@ -4,7 +4,7 @@
 
 𝑭𝙪𝙣 𝙛𝙖𝙘𝙩 𝙤𝙛 𝙩𝙝𝙚 𝒅𝙖𝙮; 𝑫𝙞𝒅 𝙮𝙤𝙪 𝙠𝒏𝙤𝙬:
 <h6>
-<!-- <RandomFunFact> --> The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene. <!-- </RandomFunFact> -->
+<!-- <RandomFunFact> --> Columbia University is the second largest landowner in New York City, after the Catholic Church. <!-- </RandomFunFact> -->
 </h6>
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)

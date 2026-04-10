@@ -4,7 +4,7 @@
 
 𝑭𝙪𝙣 𝙛𝙖𝙘𝙩 𝙤𝙛 𝙩𝙝𝙚 𝒅𝙖𝙮; 𝑫𝙞𝒅 𝙮𝙤𝙪 𝙠𝒏𝙤𝙬:
 <h6>
-<!-- <RandomFunFact> --> Mel Blanc (the voice of Bugs Bunny) was allergic to carrots. <!-- </RandomFunFact> -->
+<!-- <RandomFunFact> --> The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000 <!-- </RandomFunFact> -->
 </h6>
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)

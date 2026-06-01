@@ -4,7 +4,7 @@
 
 𝑭𝙪𝙣 𝙛𝙖𝙘𝙩 𝙤𝙛 𝙩𝙝𝙚 𝒅𝙖𝙮; 𝑫𝙞𝒅 𝙮𝙤𝙪 𝙠𝒏𝙤𝙬:
 <h6>
-<!-- <RandomFunFact> --> 14% of Americans have skinny-dipped with a member of the opposite sex at least once. <!-- </RandomFunFact> -->
+<!-- <RandomFunFact> --> At the height of its power in 400 BC, the Greek city of Sparta had 25,000 citizens and 500,000 slaves. <!-- </RandomFunFact> -->
 </h6>
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
